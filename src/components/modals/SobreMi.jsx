@@ -17,7 +17,10 @@ function SobreMi({ isOpen, closeModal }) {
         </Modal.Title>
       </Modal.Header>
       <Modal.Body>
-        <img src="../../../public/assets/img/sobre-mi.jpg" alt="" />
+        <img
+          src="https://res.cloudinary.com/dppgbrtfk/image/upload/v1753994749/foto-sobre_mi_cphwa3.jpg"
+          alt=""
+        />
         <p>
           Ingeniero en Sistemas con sólida experiencia en desarrollo web,
           implementación de ERP y análisis de procesos empresariales. Proactivo,
