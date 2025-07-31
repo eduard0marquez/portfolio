@@ -25,10 +25,16 @@ img{
 		-webkit-transform: scale(1.0);
 		-ms-transform: scale(1.0);
 		transform: scale(1.0);
-
+        position:absolute;
+        background-size: cover;
+        background-position: center,
+ center;
+			background-repeat: no-repeat,
+ repeat;
 		top: 0;
 		left: 0;
-		width: 100%;
+        background-repeat: no-repeat;
+		min-width: 100%;
 		min-height: 100vh;
 		z-index: 1;
 }
